@@ -20,35 +20,43 @@ public class Book {
         this.author = author;
     }
 
-    public int getId() {
+    public int getId()
+    {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(int id)
+    {
         this.id = id;
     }
 
-    public String getName() {
+    public String getName()
+    {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(String name)
+    {
         this.name = name;
     }
 
-    public String getGenre() {
+    public String getGenre()
+    {
         return genre;
     }
 
-    public void setGenre(String genre) {
+    public void setGenre(String genre)
+    {
         this.genre = genre;
     }
 
-    public String getAuthor() {
+    public String getAuthor()
+    {
         return author;
     }
 
-    public void setAuthor(String author) {
+    public void setAuthor(String author)
+    {
         this.author = author;
     }
 }
